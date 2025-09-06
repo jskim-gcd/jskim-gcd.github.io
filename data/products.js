@@ -1,17 +1,5 @@
 let products = [
     {
-        id: 6,
-        title: 'Guns, Germs, and Steel',
-        author: 'Jared Diamond',
-        price: 26820
-    },
-    {
-        id: 7,
-        title: 'Cosmos',
-        author: 'Carl Sagan',
-        price: 19800
-    },
-    {
         id: 8,
         title: 'Human Acts',
         author: 'Han Kang',
