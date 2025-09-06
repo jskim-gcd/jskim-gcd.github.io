@@ -1,21 +1,21 @@
 [
     {
         "id": 8,
-        "title": "Human Acts",
-        "author": "Han Kang",
-        "price": 13500
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "price": 15200
     },
     {
         "id": 9,
-        "title": "Atomic Habits",
-        "author": "James Clear",
-        "price": 14400
+        "title": "The Subtle Art of Not Giving a F*",
+        "author": "Mark Manson",
+        "price": 16200
     },
     {
         "id": 10,
-        "title": "The One Thing",
-        "author": "Gary Keller",
-        "price": 15120
+        "title": "The Diary of a Young Girl",
+        "author": "Anne Frank",
+        "price": 7880
     },
     {
         "id": 11,
